@@ -1,2 +1,6 @@
-# pmnt-library
-this is the library for components
+# pmnt_react library 
+# simple-component-library
+A library of React components created using `create-react-app`.
+## Installation
+Run the following command:
+`npm install pmnt_web`
